@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_7f051e15868b512ab47380ce95b02c36f1da3575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_a069ec8a412de961a1c98ce533860a50731e4d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_48279bee1fe0c1fa145bf9a60667db07cc461b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_41564aaf1280474c9c0957ddc99e8eaad754880b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_bde62b0710dc830cf722fa14420d54770f0096c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_1377f9a9e6dcbef7c383085b15f436c1ace95ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/glide-3.7.0_ac342f17260710fcdf4b2d129687098a64b8d47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_b975d86e0abec7206d5cce18f9d4cf511f96b32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_9272452af7cc733ffd06b83bc6357e6d02e032c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fian/Documents/android/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/fian/Documents/android/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_230d35043a56511cf7e3fd9c26df5695db2c62ef.jar" />
+    </item>
+
+</items>
